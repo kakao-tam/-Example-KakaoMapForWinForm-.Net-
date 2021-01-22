@@ -1,0 +1,10 @@
+D:\dev\WindowsFormsAppForKakaoMap\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+D:\dev\WindowsFormsAppForKakaoMap\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+D:\dev\WindowsFormsAppForKakaoMap\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+D:\dev\WindowsFormsAppForKakaoMap\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\dev\WindowsFormsAppForKakaoMap\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+D:\dev\WindowsFormsAppForKakaoMap\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\dev\WindowsFormsAppForKakaoMap\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\dev\WindowsFormsAppForKakaoMap\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\dev\WindowsFormsAppForKakaoMap\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+D:\dev\WindowsFormsAppForKakaoMap\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
